@@ -6,6 +6,6 @@ function destructivelyAppendKitten(name) {
   return kittens
 }
 function destructivelyPrependKitten(name) {
-  kittens.unshift("Ralph")
+  kittens.unshift("Bob")
   return kittens
 }
